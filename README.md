@@ -42,7 +42,7 @@ The objective is to build a simple platform to upload and view files:
 * Code use the `js` extension
 * Code verified against lint using ESLint
 
-## Provided files
+## The Provided files
 
 `package.json`
 
